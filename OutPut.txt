@@ -1,0 +1,31 @@
+Nkwantal   | 295-1492  
+Idle       | 291-1864  
+Green      | 295-1601  
+Realzola   | 293-6122  
+Ealson     | 295-1492  
+Bolen      | 291-7890  
+Hedreen    | 294-8075  
+Bell       | 584-3622  
+Bolen      | 291-7890  
+Bolen      | 291-7890  
+Penton     | null      
+Penton     | null      
+Bell      584-3622  
+Bolen     291-7890  
+Ealson    295-1492  
+Altayyar   | 294-1568  
+Gammons    | 294-1882  
+Whitehead  | 295-6622  
+Altayyar  294-1568  
+Bell      584-3622  
+Bolen     291-7890  
+Ealson    295-1492  
+Gammons   294-1882  
+Green     295-1601  
+Hedreen   294-8075  
+Idle      291-1864  
+Nkwantal  295-1492  
+Realzola  293-6122  
+Whitehead 295-6622  
+
+raised ADA.IO_EXCEPTIONS.END_ERROR : a-textio.adb:1879
